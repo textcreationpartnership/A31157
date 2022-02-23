@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of the four hundred coach men their widows and assigns, formerly licensed by virtue of an act of Parliament, made in the thirteenth and fourteenth years of King Charles II to drive Hackney coaches in the cities of London and Westminster, and the suburbs thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31157</idno>
+            <idno type="STC">Wing C1075</idno>
+            <idno type="STC">ESTC R2378</idno>
+            <idno type="EEBO-CITATION">12266097</idno>
+            <idno type="OCLC">ocm 12266097</idno>
+            <idno type="VID">58079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 911:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of the four hundred coach men their widows and assigns, formerly licensed by virtue of an act of Parliament, made in the thirteenth and fourteenth years of King Charles II to drive Hackney coaches in the cities of London and Westminster, and the suburbs thereof.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Urban transportation --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:58079:1"/>
+            <head>The CASE OF THE Four Hundred Coach Men, their Widows and Aſſigns, formerly Licenſed by vir<g ref="char:EOLhyphen"/>tue of an Act of Parliament, made in the Thirteenth and Fourteenth Years of King <hi>Charles</hi> II. to drive Hackney Coaches in the Cities of <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and the Suburbs thereof.
+Humbly offered to the Conſideration of Parliament.</head>
+            <p>AN Act Intitutled, among other things,<note place="margin">13, 14 Car. 2.]</note> 
+               <hi>An Act for Regulating and Licenſing Hackney Coaches to be driven for Hire about the Cities of</hi> London <hi>and</hi> Weſt<g ref="char:EOLhyphen"/>minſter, <hi>and Pariſhes within the Weekly Bills of Mortality</hi> was Paſſed; where<g ref="char:EOLhyphen"/>by it was Enacted,</p>
+            <list>
+               <item>1. That Four Hundred and no more ſhould be Licenſed for that purpoſe.</item>
+               <item>2. That his Majeſty ſhould appoint Commiſſioners to Licenſe the ſame, and that Five Pound <hi>per An.</hi> ſhould be paid for every Licenſe, and directed for what Uſes, to wit, for removing Nuſances, widening and paving Streets, and mending Shewers.</item>
+               <item>3. That no one Coach Man ſhould have above Two Licences.</item>
+               <item>4. That they ſhould obſerve the Rules preſcribed therein.</item>
+               <item>5. That none take more for Hire by the Day or Hour, or from Place to Place, than therein was directed.</item>
+               <item>6. No other Perſons were permitted to drive Coaches, for Hire, within the Limits aforeſaid.</item>
+            </list>
+            <p>
+               <hi>Purſuant whereunto</hi>
+            </p>
+            <p>Commiſſioners were appointed.</p>
+            <p>Four Hundred and no more Licenſed.</p>
+            <p>Thoſe Licences continued for Seventeen Years; in which time the Coach Men ſo Licenſed, paid to the Uſes by the ſaid Act directed 34000 <abbr>lb.</abbr>
+            </p>
+            <p>Beſides they laid out their Stocks in Coaches and Horſes.</p>
+            <p>Took Leaſes of Houſes, Coach-houſes, and Stables for a long term of Years; a great Number of which are yet to come.</p>
+            <p>Paid great Fines, beſides Yearly Rent they are obliged to pay.</p>
+            <p>All this they did for the Service of his Late Majeſty's Subjects, and were encou<g ref="char:EOLhyphen"/>raged ſo to do in ſome Meaſure.</p>
+            <p n="1">1. Becauſe during the Act its continuance, if any Coach Man Licenſed, by virtue thereof hapned to dye, leaving a Widow behind him, ſhe was to injoy his Licence after his Death.</p>
+            <pb n="2" facs="tcp:58079:2"/>
+            <p n="2">2. Becauſe each Coach Man Licenſed was permitted, if not able to keep a Coach and Horſes himſelf, to transfer his Figure to another, or Lett it by the Week to work out his Debt, and provide for the Subſiſtance of him and his Wife and Children.</p>
+            <p>
+               <hi>This Act Expired in</hi> 1679, <hi>or</hi> 1680.</p>
+            <p>Since which time the Four Hundred were Licenſed by Act of Common Council of the City of <hi>London,</hi> to drive within the ſaid City and Liberties thereof, and to ſtand at ſeveral Places in the Streets. Other Coaches Prohibited ſtanding there to take up Fares; which ſaid Act directed their Government, like that appointed by the Act of Parliament of 13, 14 of King <hi>Charles</hi> the Second, and limitted them to take the ſame Hire ſetled by Act of Parliament; and they have obſerved the Rules and Orders, and taken the Prices directed.</p>
+            <p>Nevertheleſs many of them are Ruined for want of Work, occaſioned by about 130 Interloping Coach Men ſet up without Licences; who, if continued, will undo the reſt, there not being Imployment ſufficient within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the Weekly Bills of Mortality for the Four Hundred, whereby they can earn Money to defray the neceſſary Charges, and the caſual Loſſes, pay the Five Pound <hi>per An.</hi> to the Publick out of their hard Labour, and provide a mean Subſiſtance for their Families.</p>
+            <p>Of this the Four Hundred complained to the Parliament in 1680, and Peti<g ref="char:EOLhyphen"/>tioned to have the aforeſaid Act revived.</p>
+            <p>A Bill for that purpoſe was Prepared, Read and Committed, and the Committee often met upon it; but before any Report made, the Parliament was Prorogued, and after was Diſſolved.</p>
+            <p>The like Addreſs they were ready to have made to the Parliament at <hi>Oxford,</hi> had not the ſuddain Diſſolution thereof prevented the ſame.</p>
+            <p>The Four Hundred Petitioned the Parliament then Sitting,<note place="margin">May 1685.</note> Praying that the Act of 13, 14 of King <hi>Charles</hi> II. before recited, might be revived, ſo far is it related to the Coaches; and that there might be but Four Hundred, as formerly; and the Petitioners to be thoſe Four Hundred, for the Reaſons aforeſaid; and under the Rents, and ſubject to Rules and Orders before mentioned.</p>
+            <p>Thereupon the Interlopers made Application to be added to the Four Hundred.</p>
+            <p>And ſome on behalf of <hi>Chelſey</hi> Colledge proſecuted for an addition to the Four Hundred.</p>
+            <p>Several Bills were brought in, Read and Committed; and ſeveral Petitions referred to the ſame Committee.</p>
+            <p>The Committee ſeveral times Sat, and were attended by all Parties, and made a Report.</p>
+            <p>Whereupon it was referred to a Select Committee to prepare one Bill out of the ſeveral then depending.</p>
+            <p>And, in ſo doing, to have regard to the ſubject Matter of the Houſes debate, had upon the aforeſaid Report:</p>
+            <p>
+               <hi>Viz.</hi> How the ſaid Money ſhould be diſpoſed, that ſhould be raiſed by Li<g ref="char:EOLhyphen"/>cenſes.</p>
+            <p>But before any Proceedings thereupon had, the Parliament was Adjourned until <hi>November</hi> 1685.</p>
+            <p>In the Interval of their Sitting, the Committee met, and a ſhort Bill was prepared, the purport whereof was, to revive the aforeſaid Act of 13, 14 of King <hi>Charles</hi> II.</p>
+            <p>So far as it related to the Regulating the Hackney Coaches, with a Blank for the Number, and Yearly Rent.</p>
+            <p>The Parliament Sate,<note place="margin">November 85.</note> but before the Committee had agreed upon, and made their Report, it was Prorogued, and after Diſſolved.</p>
+            <p>This being the Condition of the Four Hundred Coach Men.</p>
+            <p>They moſt Humbly Implore the Favour of this Honourable Houſe to take the ſame into their Serious Conſideration, and to paſs an Act for the reviving of the Act of the 13, 14 of King <hi>Charles</hi> II. intituled, <hi>An Act amongſt other things, For the Regulating and Licenſing of Hackney Coaches, and for the Inlarging of the ſeveral Streets and Paſſages;</hi> with ſuch Alteration, as to your great Wiſdom ſhall ſeem meet.</p>
+            <pb n="3" facs="tcp:58079:2"/>
+            <list>
+               <item>1. And that by the ſaid Act, the Number of Coaches to be Licenſed to drive for Hire, may not exceed Four Hundred.</item>
+               <item>2. That thoſe formerly Licenſed may be continued.</item>
+               <item>3. That the Yearly Sum to be by each of them paid, may not be above Five Pounds.</item>
+               <item>4. That they may now, as formerly they were, be permitted to transfer, or let their Licenſes, if neceſſitated thereunto by Means and Loſſes, as aforeſaid.</item>
+            </list>
+            <p>
+               <hi>Objection,</hi> If it ſhall be Objected, That the City and the Suburbs are Inlarged above a Fifth part, ſince the Paſſing the Act of 13, 14 of King <hi>Charles</hi> II. for limitting the Number of Coaches to be Four Hundred; and that therefore Four Hundred are not ſufficient to do the Work now.</p>
+            <p>
+               <hi>Anſwer,</hi> That though it be true, the Buildings are much Inlarged ſince 13, 14 of King <hi>Charles</hi> II. and conſequently the City more Populous now than then; yet it is certain, that a very great Part of thoſe New Buildings are Unhabited, and ſo like to be; Thouſands of them ſtanding now empty.</p>
+            <p>And the Increaſe of the Buildings is no Argument to prove, that there is a Ne<g ref="char:EOLhyphen"/>ceſſity for more Hackney Coaches now than then.</p>
+            <p>Rather the contrary will appear, if it be Conſidered, That there is above Thirty Coaches kept now by Gentlemen, and Tradeſmen about <hi>London,</hi> for every One that was kept when that Act was made, and near as many Chairs; ſo that moſt of thoſe, who formerly made uſe of Hackney Coaches and Chairs, now make uſe of their own.</p>
+            <p>Beſides, in Rebuilding of <hi>London,</hi> and Erecting thoſe New Buildings in the City and Suburbs, ſuch care has been taken to inlarge the Streets and pave them ſmooth, and to build ſuch good Penthouſes over them, that few or none now that have health and are able to walk, but chuſe rather to go on foot than to ride in Hackney Coaches.</p>
+            <p>So, that by the beſt Eſtimate that can be made, it appears that there is not ſo much Money ſpent in Hackney Coaches as was about Twenty three Years ago.</p>
+            <p>When only Four Hundred were allowed, conſequently no occaſion to increaſe their Number.</p>
+            <p>That when there were but Four Hundred, and each paid but Five Pound <hi>per an'</hi> many of them broke Yearly, and were compelled to ſell their Licenſes to pay the Debts they contracted, by keeping their Coaches and Horſes; others forfeited their Licences for non-payment of Rent. And ſince the Act Expired, although they have not paid Rent, as formerly they did when the Act was in Force, yet they, by reaſon of the Interlopers driving, can hardly Live and get Bread for their Families.</p>
+            <p>Theſe Inſtances are full Demonſtration that their Advantage was not ſo great.</p>
+            <p>If ſo many broke and forfeited when there was but Four Hundred, at Five Pound <hi>per an'</hi> each, what can be expected to be the conſequence of more being added to that Number, but that they all of them, in a ſhort time, fall under the ſame misfortune? And many of them of late Years have been Ruined by the Interlopers.</p>
+            <p>
+               <hi>This being the Truth of their Caſe,</hi>
+            </p>
+            <p>It may be worth the Conſideration of this Honourable Houſe, That if more than Four Hundred be Licenſed, they will not only undo each other, but be a great Anoyance to the Publick. For there is now but One Hundred and Thirty more that keep Coaches, beſides the Four Hundred; and it is Humbly ſubmitted to every Man's Judgment, Whether they do not find the ſame miſchievous. Every Day what ſtops there are in the Streets, by their ſtanding in Multitudes, how the Nobilities and Gentries Coaches, Foot Paſſengers, and others their Majeſties Trading Subjects, and Shopkeepers are hindred in their paſſing the ſame (ſome<g ref="char:EOLhyphen"/>times for an Hour together.) What ſpoils are frequently done to the Lords and Gentlemens Coaches and Horſes. What Quarrels and Fightings are often occa<g ref="char:EOLhyphen"/>ſioned, And what Miſchiefs have enſued thereupon.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:58079:3" rendition="simple:additions"/>
+               <list>
+                  <head>For further Reaſons why there ſhould be but Four Hundred.</head>
+                  <item>1. This will agree with the Judgment of that Parliament, which declared the Four Hundred ſufficient; which Judgment of theirs remains, though their Act be determined.</item>
+                  <item>2. It will prevent the ſtops met with dayly in the Streets, whereby Buſineſs is hindred, and frequently Meetings about Matters of great Conſequence prevented.</item>
+                  <item>3. It will prevent the Quarrels that are dayly between them, and the Servants of the Nobillity and Gentry.</item>
+                  <item>4. It will put an end to theſe Loſſes the Subjects ſuſtain by Unfigured Coaches, in which they frequently leave their Goods, and can never retrieve, not knowing how to find out their Coach. And it will prevent the frequent Affronts and ill Treatments thoſe Coach Men give to their Fares, (eſpecially if Women) unleſs they will pay them their own Unreaſonable demands.</item>
+                  <item>5. It will prevent the Ruine of many Hundreds of Tradeſmen they deal with, to whom moſt of the Four Hundred are Indebted, becauſe they have no other way to get Money to pay them.</item>
+                  <item>6. It will prevent the Ruine of the Four Hundred now Licenſed Coach Men, who Humbly hope their Licenſes ſhall be continued, and no more Granted, upon the Conſiderations following.
+<list>
+                        <item>1. Becauſe they are ſuch, as were Originally Licenſed by the aforeſaid Act, or Claim under them, by reaſon of their Figures being transferred to them.</item>
+                        <item>2. Ever ſince the Act paſſed they have obſerved the Rules, Orders, and Di<g ref="char:EOLhyphen"/>rections thereof, and has been under ſuch Government as therein limitted.</item>
+                        <item>3. They have laid out their Stocks, in providing Coaches and able Horſes.</item>
+                        <item>4. And have taken Leaſes of Houſes, Coach-houſes, and Stables, for a conſi<g ref="char:EOLhyphen"/>derable time to come, which they muſt pay the Rent of; and have no other way to do the ſame, but by following their preſent Callings.</item>
+                        <item>5. They have always behaved themſelves Loyal Subjects.</item>
+                        <item>6. They have already paid 34000 <abbr>lb.</abbr> in Seventeen Years time for the Pub<g ref="char:EOLhyphen"/>lick.</item>
+                        <item>7. They are many of them Widows left with Children, and others very An<g ref="char:EOLhyphen"/>cient Men, who have nothing left but their Licences whereby to ſupport Themſelves and Families; though the Interlopers, do many, if not moſt of them, follow other Trades.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="title">
+            <p>The <hi>400</hi> Licenſed Hackney-Coach-Mens Caſe.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
